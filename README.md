@@ -30,7 +30,7 @@ Una vez que los datos estaban limpios, los guardé en un [nuevo CSV](./data/clea
 
 #### Visualización de datos 📊
 
-Con los datos limpios y listos para ser utilizados, me sumergí en Power BI para crear un panel de visualización. El resultado es [este dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQ3NzZmNGMtMTk4NS00NDExLWE1NDgtNTQ0NGEwY2Q2ZmRhIiwidCI6IjQyOGRmZmIwLTZlOWYtNDMxMC04N2U3LWEwODliYzNkYjUzYiIsImMiOjl9) que puedes consultar sin necesidad de tener descargado el programa.
+Con los datos limpios y listos para ser utilizados, me sumergí en Power BI para crear un panel de visualización. El resultado es [este dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzlkODBhNGItMmM2NC00YmEzLTk4N2EtZWI3M2MyMGQ1OTAzIiwidCI6IjQyOGRmZmIwLTZlOWYtNDMxMC04N2U3LWEwODliYzNkYjUzYiIsImMiOjl9) que puedes consultar sin necesidad de tener descargado el programa.
 
 ![california](image/README/Californiau$d.png)
 
