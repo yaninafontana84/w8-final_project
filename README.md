@@ -47,3 +47,16 @@ Por otro lado, se observa que los trabajos más solicitados son científico de d
 A partir de la descripción del puesto de trabajo, se extrajeron las herramientas solicitadas (en las descripciones en las que éstas figuraban), y se pudo notar que las tres más pedidas son machine learning, python y SQL.
 
 Te invito a explorar el dashboard y descubrir más sobre el emocionante mundo de los trabajos de análisis de datos en California. ¿Quién sabe? Tal vez te inspire a embarcarte en tu propio viaje de análisis de datos. 🌟
+
+---
+
+#### Recursos utilizados 📚
+
+* [Python](https://docs.python.org/3/library/functions.html) 🐍
+* [Pandas](https://pandas.pydata.org/docs/) 🐼
+* [SQLAlchemy](https://www.sqlalchemy.org/)
+* [DBeaver](https://dbeaver.com/docs/dbeaver/) 🦫
+* [Power Bi](https://powerbi.microsoft.com/es-es/) 📊
+* [Kaggle](https://www.kaggle.com/datasets/vincenttu/glassdoor-joblisting) 👥
+
+***
